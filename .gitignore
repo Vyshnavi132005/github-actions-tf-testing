@@ -1,0 +1,17 @@
+# Terraform provider plugins
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Terraform variables
+*.tfvars
+*.tfvars.json
+
+# Terraform plans
+*.tfplan
+
+# Crash logs
+crash.log
+crash.*.log
